@@ -1,4 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hadiru Colley=====================================================================================================================================Front-End Web Developer-----------------------I have been learning to code since last year._ 🌍  I'm based in Kayseri Turkiye_ ✉️  You can contact me at [dirudeen22@gmail.com](mailto:dirudeen22@gmail.com)_ 🧠  I'm learning React and Tailwind CSS_ 🤝  I'm open to collaborating on interesting projects\* ⚡  I love meeting new people and I play brass instruments too
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hadiru Colley
+
+## Front-End Web Developer
+
+I have been learning to code since last year.
+
+_ 🌍  I'm based in Kayseri Turkiye
+_ ✉️  You can contact me at [dirudeen22@gmail.com](mailto:dirudeen22@gmail.com)
+_ 🧠  I'm learning React and Tailwind CSS
+_ 🤝  I'm open to collaborating on interesting projects\* ⚡  I love meeting new people and I play brass instruments too
 
 <a href="https://www.twitter.com/deenboi22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/deenboi22?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff"/></a>
