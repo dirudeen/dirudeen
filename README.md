@@ -79,10 +79,11 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
+
 1. ❗️ Closed issue [#1](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 2. 🎉 Merged PR [#2](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/2) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 3. 🗣 Commented on [#1](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/1) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
@@ -90,14 +91,11 @@
 5. 🗣 Commented on [#249](https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
-</details>
+</details> -->
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+[![dirudeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=dirudeen)](https://github.com/dirudeen/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
