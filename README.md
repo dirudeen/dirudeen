@@ -3,11 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Web Developer
 -----------------------
 
-I have been learning to code since last year.
+I started coding in 2022 and love bulilding projects
 
 * 🌍  I'm based in Kayseri Turkiye
 * ✉️  You can contact me at [dirudeen22@gmail.com](mailto:dirudeen22@gmail.com)
-* 🧠  I'm learning React and Tailwind CSS
+* 🧠  I'm currently learning data structures and algorithms
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love meeting new people and I play brass instruments too
 
